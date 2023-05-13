@@ -4,9 +4,9 @@
     "image": "images/bgimg.jpeg"
   },
   "userdetails": {
-    "userimage": "images/sq.png",
-    "username": "iamkunal9",
-    "userbio": "A coder, Techie, Eth Hacker!!!"
+    "userimage": "images/111181668.jpeg",
+    "username": "muskan129",
+    "userbio": "CODER DANCER"
   },
   "links": {
     "Instagram": {
@@ -43,9 +43,6 @@
     }
   },
   "projects":{
-    "Links":"https://github.com/iamkunal9/links",
-    "TruecallerBOT":"https://appopener.com/web/3d6qh47rb",
-    "Url Shortner":"https://skip.ga",
-    "Aarohan Web":"https://aarohan.poornima.org"
+    
   }
 }
